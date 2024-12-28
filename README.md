@@ -40,7 +40,7 @@ I am a **software engineer** with expertise in emerging technologies and a passi
 - **Languages**: Rust, Go, PHP, JavaScript, SQL, Dart  
 - **Frameworks**: Fiber, Laravel, Axum, Bootstrap  
 - **Tools**: Docker, Kubernetes, Jira, Neovim  
-- **Databases**: PostgreSQL, Gorm, CockroachDB  
+- **Databases**: PostgreSQL, NoSQL, CockroachDB  
 
 <!--
 💡 **Highlighted Projects**  
@@ -56,7 +56,6 @@ I am a **software engineer** with expertise in emerging technologies and a passi
 
 📚 **Learning and Growing**  
 - Pursuing deeper insights into **AR** and **IoT** to create transformative solutions.  
-- Exploring ethical implications and legislation surrounding emerging technologies.  
 <!--
 📫 **Let's Connect**  
 - **GitHub**: [Your GitHub Profile](#)  
