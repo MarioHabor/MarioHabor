@@ -1,4 +1,5 @@
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/7df0bd42774743.57ee5f32bd76e.gif" width="100">
+
+<!-- <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/7df0bd42774743.57ee5f32bd76e.gif" width="100"> -->
 
 ## Hi there 👋
 
