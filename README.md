@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 ---
 
-[![Top Langs](https://githubstatsp-git-master-mchs-projects-dba340b8.vercel.app/api/top-langs/?username=MarioHabor&hide=html&show_icons=true&theme=tokyonight&layout=compact&exclude_repo=ai-toolkit,generative_image_ai_mobile_app)]
+![MarioHabor](https://githubstatsp-git-master-mchs-projects-dba340b8.vercel.app/api/top-langs/?username=MarioHabor&hide=html&show_icons=true&theme=tokyonight&layout=compact&exclude_repo=ai-toolkit,generative_image_ai_mobile_app)
 
 🌟 **About Me**  
 I am a **software engineer** with expertise in emerging technologies and a passion for crafting innovative solutions. My technical skill set includes **Rust**, **Go**, **PHP**, **JavaScript**, **Svelte**, **Flutter**, and more. With experience in frameworks like **Laravel**, **Axum**, and **Fiber**, I specialize in building scalable and efficient systems.
