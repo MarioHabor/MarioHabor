@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 -->
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioHabor)](https://github.com/anuraghazra/github-readme-stats)
+
 🌟 **About Me**  
 I am a **software engineer** with expertise in emerging technologies and a passion for crafting innovative solutions. My technical skill set includes **Rust**, **Go**, **PHP**, **JavaScript**, **Svelte**, **Flutter**, and more. With experience in frameworks like **Laravel**, **Axum**, and **Fiber**, I specialize in building scalable and efficient systems.
 
