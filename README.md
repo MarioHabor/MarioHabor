@@ -36,7 +36,7 @@ I am a **software engineer** with expertise in emerging technologies and a passi
 <!--
 - Developing a **Laravel-based account system** for managing local cryptocurrency wallets.
 -->
-- Enhancing my skills in distributed SQL with **CockroachDB** and advanced NoSQL solutions like Cassandra.  
+- Enhancing my skills in distributed SQL with **CockroachDB** and advanced NoSQL solutions like Cassandra/DynamoDb and KDB.  
 - Exploring the applications of AI, IoT, and AR in business innovation.
 
 🛠️ **Tech Stack**  
