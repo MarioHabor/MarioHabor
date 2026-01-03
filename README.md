@@ -28,7 +28,7 @@ I am a **software engineer** with expertise in emerging technologies and a passi
 <!--
 - **Blockchain Enthusiast**: Currently developing locally managed crypto wallets and exploring blockchain's potential in secure and user-centric applications.
 -->
-- **System Design**: Experienced in scalable solutions using Kubernetes, AWS/Azure, and Docker.  
+- **System Design**: Experienced in scalable solutions using Kubernetes, AWS, and Docker.  
 - **Academic Research**: Investigating web application security and contributing to emerging technology solutions.  
 
 🔍 **Current Focus**  
