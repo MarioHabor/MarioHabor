@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![MarioHabor](https://githubstatsp-git-master-mchs-projects-dba340b8.vercel.app/api/top-langs/?username=MarioHabor&hide=html,css,svelte,javascript&show_icons=true&theme=swift&layout=compact&exclude_repo=ai-toolkit,generative_image_ai_mobile_app&langs_count=8)
 
 🌟 **About Me**  
-I am a **software engineer** with expertise in emerging technologies and a passion for crafting innovative solutions. My technical skill set includes **Rust**, **Java**, **PHP**, **TypeScript**, **Svelte**, and more. With experience in frameworks like **Laravel**, **Axum**, and **Fiber**, I specialize in building scalable and efficient systems.
+I am a **software engineer** with expertise in emerging technologies and a passion for crafting innovative solutions. My technical skill set includes **Rust**, **Java**. I specialize in building scalable and efficient systems.
 
 🚀 **What I Do**  
 <!--
