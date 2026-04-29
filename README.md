@@ -39,8 +39,8 @@ I am a **software engineer** with expertise in emerging technologies and a passi
 - Exploring the applications of AI, IoT, and AR in business innovation.
 
 🛠️ **Tech Stack**  
-- **Languages**: Rust, Java, PHP, JavaScript, SQL, Dart  
-- **Frameworks**: Axum, Laravel, Bootstrap  
+- **Languages**: Rust, Java, SQL,  
+- **Frameworks**: Axum, Spring boot,
 - **Tools**: Docker, Kubernetes, Jira, Neovim  
 - **Databases**: PostgreSQL, NoSQL, CockroachDB  
 
